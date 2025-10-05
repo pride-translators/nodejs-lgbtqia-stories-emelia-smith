@@ -1,3 +1,9 @@
+---
+title: "Node.js LGBTQIA+ 서사: Emelia Smith"
+excerpt: ""
+---
+
+
 ## Node.js LGBTQIA+ 서사: Emelia Smith
 > 원문을 읽고 싶으신가요? [여기](https://nodejs.org/en/blog/community/2025-06-28-Emelia-Smith)를 확인해 보세요.
 
